@@ -1,0 +1,382 @@
+Setting DefaultsChecking for ArgumentsChecking for Arguments
+Checking for Arguments
+Checking for Arguments
+Checking for Arguments
+Checking for Arguments
+ArgumentsNum = 2
+Checking for Arguments
+ArgumentsNum = 3
+Checking for Arguments
+ArgumentsNum = 3
+Checking for Arguments
+ArgumentsNum = 3
+Checking for Arguments
+ArgumentsNum = 3
+Done with instructions
+Checking for Arguments
+Done with instructions
+ArgumentsNum = 3
+Checking for Arguments
+ArgumentsNum = 2
+Checking for Arguments
+ArgumentsNum = 2
+Checking for Arguments
+ArgumentsNum = 5
+Checking for Arguments
+Done with dd
+ArgumentsNum = 5
+Checking for Arguments
+ArgumentsNum = 3
+Done with inss
+Checking for Arguments
+ArgumentsNum = 3
+Done with do-what-it-says
+Checking for Arguments
+ArgumentsNum = 3
+Done with do-what-it-says
+spotify-this-song,"I Want it That Way"
+ArgumentsNum = 2
+Checking for Arguments
+Done with undefined
+Checking for Arguments
+ArgumentsNum = 3
+Done with do-what-it-says
+From File: spotify-this-song,"I Want it That Way"
+Done with spotify-this-song,"I Want it That Way"
+Checking for Arguments
+ArgumentsNum = 3
+Doing what it says
+Done with do-what-it-says
+From File: spotify-this-song,"I Want it That Way"
+Displaying Instructions
+Done with spotify-this-song,"I Want it That Way"
+Checking for Arguments
+ArgumentsNum = 4
+Getting undefined from Spotify
+Done with spotify-this-song
+Checking for Arguments
+ArgumentsNum = 4
+Getting abba from Spotify
+Done with runningspotify-this-song
+Checking for Arguments
+ArgumentsNum = 4
+Getting abba from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+ArgumentsNum = 2
+Displaying Instructions
+Displaying Instructions
+Done with running undefined Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Crash from OMDB
+Done with running movie-this Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running movie-this Type another command.
+Getting Mr. Nobody from OMDB
+ArgumentsNum = 3
+Checking for Arguments
+Done with running movie-thi Type another command.
+Displaying Instructions
+Checking for Arguments
+Displaying Instructions
+Done with running movie-thi Type another command.
+ArgumentsNum = 3
+Checking for Arguments
+Getting Crash from OMDB
+Done with running movie-this Type another command.
+ArgumentsNum = 4
+ArgumentsNum = 4
+Checking for Arguments
+Getting Crash from OMDB
+Done with running movie-this Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Crash from OMDB
+Done with running movie-this Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running my-tweet Type another command.
+Displaying Instructions
+Checking for Arguments
+ArgumentsNum = 3
+Displaying Instructions
+Done with running my-tweet Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running my-tweets Type another command.
+Getting Tweets
+ArgumentsNum = 3
+Checking for Arguments
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+Getting Tweets
+ArgumentsNum = 3
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Mr. Nobody from OMDB
+Done with running movie-this Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+ArgumentsNum = 4
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+Getting Tweets
+ArgumentsNum = 4
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+ArgumentsNum = 4
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Done with running my-tweets Type another command.
+Getting Tweets
+Checking for Arguments
+ArgumentsNum = 4
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Tweets
+Done with running my-tweets Type another command.
+ArgumentsNum = 3
+Checking for Arguments
+Getting Tweets
+Done with running my-tweets Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Mr. Nobody from OMDB
+Done with running movie-this Type another command.
+Checking for Arguments
+Getting The Sign from Spotify
+ArgumentsNum = 3
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting hi from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+ArgumentsNum = 3
+Checking for Arguments
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 2
+Displaying Instructions
+Displaying Instructions
+Done with running undefined Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Doing what it says
+Done with running do-what-it-says Type another command.
+Displaying Instructions
+Done with running spotify-this-song,"I Want it That Way" Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting The Sign from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Holiday from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting Holidays from Spotify
+Done with running spotify-this-song Type another command.
+ArgumentsNum = 5
+Checking for Arguments
+Displaying Instructions
+Getting Bad from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 6
+Displaying Instructions
+Getting I from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting in the air tonight from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting in the air tonight from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting in the air tonight from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 4
+Getting in the air tonight from Spotify
+Done with running spotify-this-song Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Doing what it says
+Done with running do-what-it-says Type another command.
+Displaying Instructions
+Done with running spotify-this-song,"I Want it That Way" Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Doing what it says
+Done with running do-what-it-says Type another command.
+Displaying Instructions
+Done with running spotify-this-song,"I Want it That Way" Type another command.
+Checking for Arguments
+ArgumentsNum = 3
+Getting Tweets
+Done with running my-tweets Type another command.
